@@ -1,0 +1,1 @@
+java -jar swagger-codegen-cli-3.0.23.jar generate -i swagger.json -l java -o swagger --group-id at.mic.superset --artifact-id superset-swagger-client --artifact-version 0.37 --api-package at.mic.superset.swagger.client --model-package at.mic.superset.swagger.client.model
